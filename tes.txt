@@ -1,0 +1,9 @@
+Jatim dibagi ke dua: Jatim 1 dan Jatim 2
+
+Compare desa dari bps dengan json -> masukkan desa yang sesuai operasional mpm
+
+PR:
+Polygon maps bisa menampilkan lebih dari satu
+Upload excel yang lebih dari 1 sheet
+
+kendo ui javascript
